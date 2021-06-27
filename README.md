@@ -6,6 +6,6 @@ Currently looking for my first role as a Full-Stack Developer.
 
 # Links 
 
-Linkedin: www.linkedin.com/in/afsanehsamettehrani | 
-Website: www.afsaneh.me | 
+Linkedin: <a href="https://linkedin.com/in/afsanehsamettehrani">linkedin.com/in/afsanehsamettehrani</a> | 
+Website: <a href="https://afsaneh.me">afsaneh.me</a> | 
 Email: afsaneh.samettehrani@essec.edu
